@@ -1,5 +1,8 @@
 # OldClassicTube
 
+#Notes
+## This is discontinued because of no activity. When this gets popular again. I will continue.
+
 ## Credits
 ### Credits to the people who makes yt2009 and all of its forks. Not affereted with YT2009 or Youtube or Google.
 Credit links
